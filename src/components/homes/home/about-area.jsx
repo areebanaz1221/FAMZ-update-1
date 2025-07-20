@@ -1,4 +1,4 @@
-import Link from 'next/link';
+// import Link from 'next/link';
 import Image from 'next/image';
 import { Navigation } from "swiper";
 import React, { useEffect, useState } from 'react';
@@ -162,9 +162,9 @@ const AboutArea = () => {
                                     </Swiper>
 
                                     <div className="tp-about-call">
-                                        <a href="tel:+92 331 2788903">
+                                        <a href="tel:+92-331-2788903">
                                             <p><i className="fa-solid fa-phone"></i>
-                                                FAMZ  solutions for clienteles<span>+92 331 2788903</span></p>
+                                                FAMZ  solutions for clienteles<span>+92-331-2788903</span></p>
                                         </a>
                                     </div>
 
