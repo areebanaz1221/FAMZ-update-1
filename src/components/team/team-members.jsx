@@ -5,7 +5,7 @@ import { SocialLinksTwo } from '../../common/social-links';
 
 
 // team members img 
-import team_img_1 from '../../../public/assets/img/breadcrumb/team/img-1.png';
+import team_img_1 from '../../../public/assets/img/breadcrumb/team/img-1.jpg';
 import team_img_2 from '../../../public/assets/img/breadcrumb/team/img-2.jpg';
 import team_img_3 from '../../../public/assets/img/breadcrumb/team/img-3.jpg';
 import team_img_4 from '../../../public/assets/img/breadcrumb/team/img-4.jpg';
