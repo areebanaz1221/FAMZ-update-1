@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import EmailIcon from '../../../svg/email-icon';
-import AngleArrow from '../../../src/svg/angle-arrow';
+import AngleArrow from '../../../svg/angle-arrow';
 // shape import here
 import cta_shape_1 from "../../../../public/assets/img/cta/img.png";
 import cta_shape_2 from "../../../../public/assets/img/cta/img-2.png";

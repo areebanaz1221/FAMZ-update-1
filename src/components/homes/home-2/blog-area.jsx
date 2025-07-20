@@ -12,8 +12,8 @@ import blog_img_3 from "../../../../public/assets/img/blog/img-5.png";
 
 
 import shape_1 from "../../../../public/assets/img/blog/shape-1.png";
-import AngleArrow from '../../../../public//src/svg/angle-arrow'; 
-import LineArrowTwo from '../../../../public//src/svg/line-arrow-2';
+import AngleArrow from '../../../../public/src/svg/angle-arrow'; 
+import LineArrowTwo from '../../../../public/src/svg/line-arrow-2';
 
 const blog_data = [
     // home 02 
