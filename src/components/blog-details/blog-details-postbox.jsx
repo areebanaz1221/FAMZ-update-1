@@ -9,17 +9,17 @@ import UserProfile from '../blog/user-profile';
 import CommentForm from '../../forms/comment-form';
 
 
-import thumb_1 from "@assets/img/blog/details/blog-1.jpg";
-import thumb_2 from "@assets/img/blog/details/blog-2.jpg";
-import thumb_3 from "@assets/img/blog/details/blog-3.jpg";
+import thumb_1 from "../../../public/assets/img/blog/details/blog-1.jpg";
+import thumb_2 from "../../../public/assets/img/blog/details/blog-2.jpg";
+// import thumb_3 from "@assets/img/blog/details/blog-3.jpg";
 
-import person_1 from "@assets/img/blog/details/comment-1.jpg";
-import person_2 from "@assets/img/blog/details/comment-2.jpg";
+import person_1 from "../../../public/assets/img/blog/details/comment-1.jpg";
+import person_2 from "../../../public/assets/img/blog/details/comment-2.jpg";
 
-import quate from "@assets/img/blog/details/quate.jpg"; 
-import RightSymbol from '@/src/svg/right-symbol';
-import VideoPopup from '@/src/modals/video-popup';
-import ReplyIcon from '@/src/svg/reply-icon';
+import quate from "../../../public/assets/img/blog/details/quate.jpg"; 
+import RightSymbol from '../../svg/right-symbol';
+// import VideoPopup from '@/src/modals/video-popup';
+import ReplyIcon from '../../svg/reply-icon';
 
 const single_post_details  = {
    thumb: thumb_1,
