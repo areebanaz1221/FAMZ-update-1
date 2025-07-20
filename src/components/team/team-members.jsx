@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { SocialLinksTwo } from '@/src/common/social-links';
+import { SocialLinksTwo } from '../../common/social-links';
 
 
 // team members img 

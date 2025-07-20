@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import AngleArrow from '@/src/svg/angle-arrow';
+import AngleArrow from '../../../svg/angle-arrow';
 import React, { useEffect, useRef, useState } from 'react';
 
 
