@@ -1,4 +1,4 @@
-import post_data from '@/src/data/post-data';
+import post_data from '../../data/post-data';
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';

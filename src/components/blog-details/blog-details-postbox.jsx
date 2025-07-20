@@ -6,7 +6,7 @@ import Category from '../blog/category';
 import SearchArea from '../blog/search-area';
 import RecentPost from '../blog/recent-post';
 import UserProfile from '../blog/user-profile';
-import CommentForm from '@/src/forms/comment-form';
+import CommentForm from '../../forms/comment-form';
 
 
 import thumb_1 from "@assets/img/blog/details/blog-1.jpg";

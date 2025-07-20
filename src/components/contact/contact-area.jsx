@@ -1,6 +1,6 @@
 import ContactForm from '../../forms/contact-form';
-import EmailIconOne from '@/svg/email-icon-1';
-import PhoneIcon from '@/svg/phone-icon';
+import EmailIconOne from '../../svg/email-icon-1';
+import PhoneIcon from '../../svg/phone-icon';
 import React from 'react';
 
 const ContactArea = () => {

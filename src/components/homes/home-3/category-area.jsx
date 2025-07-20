@@ -4,14 +4,14 @@ import AngleArrow from '@/src/svg/angle-arrow';
 import React, { useEffect, useRef, useState } from 'react';
 
 
-import  category_shape_1 from "@assets/img/category/shape-1.png";
-import  category_shape_2 from "@assets/img/category/shape-2.png";
+import  category_shape_1 from "../../../../public/assets/img/category/shape-1.png";
+import  category_shape_2 from "../../../../public/assets/img/category/shape-2.png";
 
-import category_icon_1 from "@assets/img/category/icon-1.png";
-import category_icon_2 from "@assets/img/category/icon-2.png";
-import category_icon_3 from "@assets/img/category/icon-3.png";
-import category_icon_4 from "@assets/img/category/icon-4.png";
-import category_icon_5 from "@assets/img/category/icon-5.png";
+import category_icon_1 from "../../../../public/assets/img/category/icon-1.png";
+import category_icon_2 from "../../../../public/assets/img/category/icon-2.png";
+import category_icon_3 from "../../../../public/assets/img/category/icon-3.png";
+import category_icon_4 from "../../../../public/assets/img/category/icon-4.png";
+import category_icon_5 from "../../../../public/assets/img/category/icon-5.png";
 
 const CategoryArea = () => {
 
